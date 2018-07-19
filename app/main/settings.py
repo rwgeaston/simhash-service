@@ -14,7 +14,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
 
-    'simhash_django',
+    'simhash_app',
 ]
 
 MIDDLEWARE = [
